@@ -7,6 +7,8 @@
 <p>Sou Desenvolvedor Front-End Criação de Sites Web</p>
 <p>Estou Ativo a Oportunidades, Qualquer Coisa é só Chamar! </p>
 
+[![LinkedIn.com][LinkedIn]][LinkedIn.com]
+
 <h3>Tecnologias Aprendidas... :mortar_board:</h3>
 
 <div id="top" align="center">
@@ -34,3 +36,5 @@
 [Git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [NodeJs]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[LinkedIn]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[LinkedIn.com]: https://www.linkedin.com/in/wagner-de-souza-mendes-957994183/
